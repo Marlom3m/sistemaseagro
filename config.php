@@ -10,7 +10,7 @@ if ( !defined('BASEURL') )
 /** caminho do arquivo de banco de dados **/
 if ( !defined('DBAPI') )
 	define('DBAPI', ABSPATH . 'controle/database.php');
-
+teste
 define('HEADER_TEMPLATE', ABSPATH . 'controle/header.php');
 define('FOOTER_TEMPLATE', ABSPATH . 'controle/footer.php');
 
